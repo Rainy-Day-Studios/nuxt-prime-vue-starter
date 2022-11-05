@@ -27,8 +27,8 @@ pnpm install --shamefully-hoist
 
 
 ## Make It Your Own
-**nuxt.config.ts** - Update the page title
-**app.vue** - Update theme colors
+* **nuxt.config.ts** - Update the page title
+* **app.vue** - Update theme colors
 
 ## Development Server
 
