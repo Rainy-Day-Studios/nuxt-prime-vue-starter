@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.1.2",
+    "nuxt": "3.0.0-rc.12"
+  },
+  "dependencies": {
+    "@nuxtjs/style-resources": "^1.2.1",
+    "primeflex": "^3.2.1",
+    "primeicons": "^6.0.1",
+    "primevue": "^3.18.1",
+    "sass": "^1.56.0",
+    "sass-loader": "^10.3.1"
+  }
+}
